@@ -13,5 +13,6 @@
 
 # My Status 
 
-[![](https://raw.githubusercontent.com/0xL2r/github-profile-summary-cards-example/master/profile-summary-card-output/midnight_purple/0-profile-details.svg)](https://github.com/0xL2r/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/0xL2r/github-profile-summary-cards-example/master/profile-summary-card-output/midnight_purple/1-repos-per-language.svg)](https://github.com/0xL2r/github-profile-summary-cards) [![](https://raw.githubusercontent.com/0xL2r/github-profile-summary-cards-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xL2r&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xL2r&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
