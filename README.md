@@ -1,7 +1,7 @@
 ### Welcome to My **Area** !
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://cdn.discordapp.com/attachments/1182793367709560953/1199282290400968795/IMG_7690.png?ex=65c1f9ab&is=65af84ab&hm=bd51b7d2be1e99320e679cd7f40bca364b915ee9994b295d45ebeac6f565f691&" width="400">
+  <img src="https://cdn.discordapp.com/attachments/1182793367709560953/1199385296442241034/IMG_2144.jpg?ex=65c2599a&is=65afe49a&hm=473da7d9664ed32f3f7b6419394f0b998bb3b4bf7371c568b3bbc1aac071b1de&" width="400">
 </div>
 
 #
