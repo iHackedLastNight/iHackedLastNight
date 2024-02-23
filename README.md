@@ -1,7 +1,7 @@
 ### Hello ? Oh Hey there Welcome To My **profile**.
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://cdn.discordapp.com/attachments/1182793367709560953/1204487748061241374/a_7e8a5433422ac4ff9f8b08f7379c3a35_1.gif?ex=65d4e9a1&amp;is=65c274a1&amp;hm=8964bd69e6531061efc2373e46a3ebd67fa39a58596f30d83b1213a662c76782&amp;" style="margin: auto;text-align: center;" width="400">
+  <img src="https://cdn.discordapp.com/attachments/1147195240181153865/1210531753568247838/106308342.png?ex=65eae68c&is=65d8718c&hm=1b10ff4777cbde31ba53fde1ea154e232d44565b6e9de5cd7be9590984a92a39&" style="margin: auto;text-align: center;" width="400">
 </div>
 
 #
