@@ -6,8 +6,8 @@
 
 #
 
-¬  I'm in love with C ℓ C++ ℓ python  
-¬  and in love with being alone all the time.
+¬  I'm in love with C ℓ C++ ℓ reverseEngineering ℓ Buffer overflow ,
+¬  Computer Science ℓ Cyber Security ,
 
 #
 
