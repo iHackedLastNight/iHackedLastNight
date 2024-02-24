@@ -69,7 +69,6 @@
 
 <br/>  
 
-<div align="center"><img src="" /></div>  
 
 <br/>  
 
