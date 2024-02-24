@@ -22,4 +22,6 @@
 
 # My Status 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rootL0r&theme=graywhite&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rootL0r&theme=graywhite&show_icons=true" alt="Anurag's GitHub stats">
+</p>
