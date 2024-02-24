@@ -6,7 +6,7 @@
   
 - 💻 Interested in Reverse Engineering, Network, Binary Exploitation, programming, 
   
-- 🧛 and love assembly language " I swear I am not autistic " 
+- 🧛 and love assembly language " I'm not autistic  " 
 
 - ❓ also I love trolling on others l0l  
   
