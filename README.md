@@ -1,29 +1,89 @@
-### Hello ? Oh Hey there Welcome To My **profile**.
-
-# My Skills
-
-<div align="center" dir="auto">  
-<a href="https://www.cprogramming.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/61547887a8075613f22e610350efa9cdfbcf8086cd1ec95afe2cc0f8d4efc1cd/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f632d6f726967696e616c2e737667" alt="C" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/c-original.svg" style="max-width: 100%;"></a>  
+<div align="center">
+<img src="" align="center" style="width: 100%" />
+</div>  
   
-<a href="https://www.cprogramming.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/61547887a8075613f22e610350efa9cdfbcf8086cd1ec95afe2cc0f8d4efc1cd/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f632d6f726967696e616c2e737667" alt="C" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/c-original.svg" style="max-width: 100%;"></a> 
+
+### **<div align="center">Hey I'm 2bdullah, a Cyber Security Researcher 👨‍💻 working remotely since 2017 🚀</div>**  
   
-<a href="https://www.cplusplus.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/769631bdeadbcc2fa2e9768fbc91392503b30515ad75f25063eeb4ec38550b22/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f63706c7573706c75732d6f726967696e616c2e737667" alt="C++" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" style="max-width: 100%;"></a>  
-<a href="https://www.linux.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/e9f60ba733b4d83b7256d8b6e368c5d0c2f409bd65e9f9a6fda49af628770953/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6c696e75782d6f726967696e616c2e737667" alt="Linux" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" style="max-width: 100%;"></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" rel="nofollow"><img src="https://camo.githubusercontent.com/ebbef1a6c2a43a4496d8fd5d2aa7755ee7d49e105077505a8815d96ed5c11eb5/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f706f7765727368656c6c2e706e67" alt="PowerShell" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/powershell.png" style="max-width: 100%;"></a>  
-<a href="https://www.python.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/dcf464fd11981a7f7b93526a5594267213c8a9112346768d796be56031ac0b26/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f707974686f6e2d6f726967696e616c2e737667" alt="Python" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/python-original.svg" style="max-width: 100%;"></a>  
-<a href="https://dotnet.microsoft.com/download" rel="nofollow">
+
+- 💻 Interested in Reverse Engineering, Network, malware, Operating System  
+  
+
+- ❓ also I love programming and trolling on others lmao  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 </div>
 
-#
+</td><td valign="top" width="33%">
 
-¬  I'm in love with C ℓ C++ ℓ reverseEngineering ℓ Buffer overflow ,
 
-¬  Computer Science ℓ Cyber Security ,
 
-#
+</td></tr></table>  
 
-# My Status 
+<br/>  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rootL0r&theme=graywhite&show_icons=true" alt="Anurag's GitHub stats">
-</p>
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/rootL0r" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/2bboodd" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/v9.j" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rootL0r&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+<div align="center"><img src="" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rootL0r&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
