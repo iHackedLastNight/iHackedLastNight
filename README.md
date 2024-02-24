@@ -1,6 +1,6 @@
 ### Hello ? Oh Hey there Welcome To My **profile**.
 
-#My Skills
+# My Skills
 
 <div align="center" dir="auto">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" rel="nofollow"><img src="https://camo.githubusercontent.com/4b531cb6c6f84985cc6a8300381d38ffa2fbf4a5758123b64c76de34d54679dc/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6373686172702d6f726967696e616c2e737667" alt="C#" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" style="max-width: 100%;"></a>  
