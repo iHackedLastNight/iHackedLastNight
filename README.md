@@ -2,13 +2,13 @@
 </div>  
   
 
-### **<div align="center">Hey I'm 2bdullah, a Cyber Security Researcher 👨‍💻 working remotely since 2017 🚀</div>**  
+### **<div align="center">Hey I'm 2bdullah, a Cyber security Researcher 👨‍💻 working remotely since 2017 🚀</div>**  
   
 
-- 💻 Interested in Reverse Engineering, Network, malware, Operating System  
+- 💻 Interested in Reverse Engineering, Network, Binary Exploitation, programming, 
   
 
-- ❓ also I love programming and trolling on others lmao  
+- ❓ also I love trolling on others l0l  
   
 
 <br/>  
