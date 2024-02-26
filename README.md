@@ -8,7 +8,7 @@
   
 - 🧛 and love assembly " I am not autistic " 
 
-- ❓ also I love trolling on others l0l  
+- ❓ also I love trolling on others lol  
   
 
 <br/>  
