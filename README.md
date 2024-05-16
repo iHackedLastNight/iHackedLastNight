@@ -70,9 +70,12 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rootL0r&&style=flat-square" align="center" />
 </div>  
+
 ```sh
-        "push 1 call ExitProcess"
+  "It's Not For illegal purpose Thank you for your understanding."
 ```
+----
+
   
 
 <br/>  
