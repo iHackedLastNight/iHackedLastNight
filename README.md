@@ -70,9 +70,11 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rootL0r&&style=flat-square" align="center" />
 </div>  
+\n
+
 
 ```sh
-                                   \npush 1 call ExitProcess
+                                                    push 1 call ExitProcess
 ```
 ----
 
