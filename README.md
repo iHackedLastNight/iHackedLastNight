@@ -72,7 +72,7 @@
 </div>  
 
 ```sh
-  "It's Not For illegal purpose Thank you for your understanding."
+            "push 1 call ExitProcess"
 ```
 ----
 
