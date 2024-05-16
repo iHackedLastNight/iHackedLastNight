@@ -74,7 +74,7 @@
 
 ```sh
                                                     push 0
- call ExitProcess
+                                               call ExitProcess
 ```
 ----
 
