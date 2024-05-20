@@ -53,8 +53,8 @@
 <div align="center">
     <table>
         <tr>
-            <td><img src="https://github-readme-stats.vercel.app/api?username=rootL0r&show_icons=true&count_private=true&hide_border=true" /></td>
             <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rootl0r&show_icons=true&locale=en&layout=compact" alt="rootl0r" /></td>
+            <td><img src="https://github-readme-stats.vercel.app/api?username=rootL0r&show_icons=true&count_private=true&hide_border=true" /></td>
         </tr>
     </table>
 </div>  
