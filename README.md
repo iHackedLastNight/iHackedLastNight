@@ -32,12 +32,6 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
 <br/>  
 
 
@@ -56,16 +50,20 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rootL0r&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+    <table>
+        <tr>
+            <td><img src="https://github-readme-stats.vercel.app/api?username=rootL0r&show_icons=true&count_private=true&hide_border=true" /></td>
+            <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rootl0r&show_icons=true&locale=en&layout=compact" alt="rootl0r" /></td>
+        </tr>
+    </table>
+</div>  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rootl0r&show_icons=true&locale=en&layout=compact" alt="rootl0r" /></p>
 <br/>  
 
   
 
 <br/>  
-
-
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rootL0r&&style=flat-square" align="center" />
@@ -76,14 +74,3 @@
 ```sh
                                                            push 0
                                                       call ExitProcess
-```
-----
-
-  
-
-<br/>  
-
-
-<br />
-
-----
