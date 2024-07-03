@@ -4,7 +4,7 @@
 
 ### **<div align="center">Hey I'm 2bdullah, a Cyber security Researcher 👨‍💻 working remotely since 2017 🚀</div>**  
   
-- 💻 Interested in Reverse Engineering, Network, Binary Exploitation, programming, Malware Development,
+- 💻 Interested in Reverse Engineering, networking, Binary Exploitation, programming, Malware Development,
   
 - 🧛 and love assembly " I am not autistic " 
 
