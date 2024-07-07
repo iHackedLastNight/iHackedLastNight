@@ -4,22 +4,17 @@
 
 ### **<div align="center">Hey I'm 2bdullah, a Cyber security Researcher 👨‍💻 working remotely since 2017 🚀</div>**  
   
-- 💻 Interested in Reverse Engineering, networking, Binary Exploitation, programming, Malware Development,
+***- 💻 Interested in Reverse Engineering, networking, Binary Exploitation, programming, Malware Development,***
   
-- 🧛 and love assembly " I am not autistic " 
+***- 🧛 and love assembly " I'm not autistic "***
 
   
-
 <br/>  
 
 
-## My Skill Set  
-
-
-
-
-
-
+***•
+My Skill set***
+---------
 
 
 
@@ -37,7 +32,9 @@
 <br/>  
 
 
-## Connect with me  
+***•
+Connect With me***
+---------
 <div align="center">
 <a href="https://github.com/rootL0r" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -51,7 +48,9 @@
 <br/>  
 
 
-## Github Stats  
+***•
+Github Stats***
+---------
 <div align="center">
     <table>
         <tr>
@@ -74,5 +73,5 @@
 
 
 ```sh
-                                                           push 0
-                                                      call ExitProcess
+                                                               push 0
+                                                          call ExitProcess
