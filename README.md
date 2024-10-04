@@ -36,7 +36,7 @@ My Skill set***
 Connect With me***
 ---------
 <div align="center">
-<a href="https://github.com/DiedLastNight" target="_blank">
+<a href="https://github.com/iHackedLastNight" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/2bboodd" target="_blank">
@@ -54,8 +54,8 @@ Github Stats***
 <div align="center">
     <table>
         <tr>
-            <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiedLastNight&show_icons=true&locale=en&layout=compact" alt="DiedLastNight" /></td>
-            <td><img src="https://github-readme-stats.vercel.app/api?username=DiedLastNight&show_icons=true&count_private=true&hide_border=true" /></td>
+            <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iHackedLastNight&show_icons=true&locale=en&layout=compact" alt="iHackedLastNight" /></td>
+            <td><img src="https://github-readme-stats.vercel.app/api?username=iHackedLastNight&show_icons=true&count_private=true&hide_border=true" /></td>
         </tr>
     </table>
 </div>  
@@ -67,7 +67,7 @@ Github Stats***
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=DiedLastNight&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=iHackedLastNight&&style=flat-square" align="center" />
 </div><br><br>
 
 
