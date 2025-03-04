@@ -2,11 +2,11 @@
 </div>  
   
 
-### ***<div align="center">Hey I'm 2bdullah, a Cyber security Researcher 👨‍💻 working remotely since 2017 🚀</div>***
+### ***<div align="center">Hey I'm abdullah, a Cyber security Researcher 👨‍💻 working remotely since 2017 🚀</div>***
   
-***- 💻 Interested in Reverse Engineering, networking, Binary Exploitation, programming, Malware Development,***
+***- 💻 Interested in Reverse Engineering, programming, networking, Binary Exploitation, Malware Dev & Analysis***
   
-***- 🧛 and love assembly " I'm not autistic "***
+***- 🧛 And yes, I love Assembly (no, I'm not autistic)***
 
   
 <br/>  
@@ -19,14 +19,15 @@ My Skill set***
 
 
 <div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>    
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" height="50"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50"/> </a> 
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+<a href="" targets="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" height="45" /></a>
+<a href="https://www.vim.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" height="40" /></a>  
+<a href="https://visualstudio.microsoft.com/vs/professional/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height="40" /></a>  
+<a href="https://hex-rays.com/ida-pro" target="_blank"><img style="margin: 10px" src="http://crack-tool.at.ua/pictures/pict3/IDA-logo.png" alt="IDA Pro" height="40" /></a>  
 </div>
 
 <br/>  
@@ -38,9 +39,6 @@ Connect With me***
 <div align="center">
 <a href="https://github.com/iHackedLastNight" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/2bboodd" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 </div>  
   
@@ -54,8 +52,8 @@ Github Stats***
 <div align="center">
     <table>
         <tr>
-            <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iHackedLastNight&show_icons=true&locale=en&layout=compact" alt="iHackedLastNight" /></td>
-            <td><img src="https://github-readme-stats.vercel.app/api?username=iHackedLastNight&show_icons=true&count_private=true&hide_border=true" /></td>
+            <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iHackedLastNight&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="iHackedLastNight" /></td>
+            <td><img src="https://github-readme-stats.vercel.app/api?username=iHackedLastNight&show_icons=true&count_private=true&hide_border=true&bg_color=000000" /></td>
         </tr>
     </table>
 </div>  
