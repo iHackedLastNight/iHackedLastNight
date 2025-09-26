@@ -4,7 +4,7 @@
 
 ### ***<div align="center">Hey I'm abdullah, a Cyber security Researcher 👨‍💻 working remotely since 2017 🚀</div>***
   
-***- 💻 Interested in Reverse Engineering, programming, networking, Binary Exploitation, Malware Dev & Analysis***
+***- 💻 Interested in Reverse Engineering, programming, networking, exploit dev, Malware Dev & Analysis***
   
 ***- 🧛 And yes, I love Assembly (no, I'm not autistic)***
 
@@ -30,18 +30,7 @@ My Skills & Tools***
 <a href="https://hex-rays.com/ida-pro" target="_blank"><img style="margin: 10px" src="http://crack-tool.at.ua/pictures/pict3/IDA-logo.png" alt="IDA Pro" height="40" /></a>  
 </div>
 
-<br/>  
-
-
-***•
-Connect With me***
----------
-<div align="center">
-<a href="https://github.com/iHackedLastNight" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-</div>  
-  
+<br/>    
 
 <br/>  
 
@@ -58,18 +47,4 @@ Github Stats***
     </table>
 </div>  
 
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=iHackedLastNight&&style=flat-square" align="center" />
-</div><br><br>
-
-
-
-```sh
-                                                            push 0
-                                                       call ExitProcess
+<br/>
