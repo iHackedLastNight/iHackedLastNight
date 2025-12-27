@@ -1,22 +1,9 @@
 <div align="center">
 </div>  
-  
-
-### ***<div align="center">Hey I'm abdullah, a Cyber security Researcher 👨‍💻 working remotely since 2017 🚀</div>***
-  
-***- 💻 Interested in Reverse Engineering, programming, networking, exploit dev, Malware Dev & Analysis***
-  
-***- 🧛 And yes, I love Assembly (no, I'm not autistic)***
-
-  
-<br/>  
-
 
 ***•
 My Skills & Tools***
 ---------
-
-
 
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>    
@@ -29,22 +16,3 @@ My Skills & Tools***
 <a href="https://visualstudio.microsoft.com/vs/professional/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height="40" /></a>  
 <a href="https://hex-rays.com/ida-pro" target="_blank"><img style="margin: 10px" src="http://crack-tool.at.ua/pictures/pict3/IDA-logo.png" alt="IDA Pro" height="40" /></a>  
 </div>
-
-<br/>    
-
-<br/>  
-
-
-***•
-Github Stats***
----------
-<div align="center">
-    <table>
-        <tr>
-            <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iHackedLastNight&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="iHackedLastNight" /></td>
-            <td><img src="https://github-readme-stats.vercel.app/api?username=iHackedLastNight&show_icons=true&count_private=true&hide_border=true&bg_color=000000" /></td>
-        </tr>
-    </table>
-</div>  
-
-<br/>
