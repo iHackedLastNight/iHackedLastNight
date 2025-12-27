@@ -2,7 +2,7 @@
 </div>  
 
 ***•
-My Skills & Tools***
+Things My Chaos Can Handle***
 ---------
 
 <div align="center">  
